@@ -6,7 +6,7 @@ Réaliser un micro shell, affichant les codes de sortie et les temps d’exécut
 des programmes lancés.
 
 ## Conseils généraux
-• Le TP se fait en binôme.
+• Le TP se fait en binôme.\n
 • Vous devez créer un projet (pour 2) sur github et y synchroniser vos fichiers, vous devez
 fournir le lien github à votre encadrant avant la fin de la première séance, votre dépôt
 github doit être public,
