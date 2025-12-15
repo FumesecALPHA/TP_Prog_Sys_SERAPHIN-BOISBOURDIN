@@ -12,5 +12,9 @@ _size_t count
   
 Pour nous fd = 1, d'où la création de la variable int stout = 1 ;  
 
+Les fichiers main.c et main.h sont disponibles et grâce à eux on obtient le résultat suivant :
+
 <img width="879" height="307" alt="image" src="https://github.com/user-attachments/assets/4da4ffc4-624a-4e64-a40f-6c47e6107270" />
 
+## Remarques
+Comme la question demande d'afficher un message d'acceuil la ligne *enseah %* en fait partie même si elle servira de prompt simple par la suite.
