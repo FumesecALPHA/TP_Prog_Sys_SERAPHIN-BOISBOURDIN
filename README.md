@@ -30,5 +30,6 @@ readme dans votre github,
 Source : [EnseaSH.pdf](https://github.com/user-attachments/files/24169860/EnseaSH.pdf)
 
 ## Réalisation du TP
-Pour réaliser le TP, nous utiliserons CLion, l'équivallent d'Intellij IDEA mais pour le C au lieu du Java.  Comme il est conseiller d'écrire un fichier par question, un dossier sera créer pour chacune des questions avec un README.md qui explique les différentes étapes ainsi que le fichier en question.
+Pour réaliser le TP, nous utiliserons CLion, l'équivallent d'Intellij IDEA mais pour le C au lieu du Java.  
+Comme il est conseiller d'écrire un fichier par question, un dossier sera créer pour chacune des questions avec un README.md qui explique les différentes étapes ainsi que le fichier en question.
 
